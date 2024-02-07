@@ -15,4 +15,4 @@ To get started with VitaCrop AI, follow these simple steps:
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/its_rittik/VitaCrop-AI.git]
+   [git clone https://github.com/its-rittik/VitaCrop-AI.git]
